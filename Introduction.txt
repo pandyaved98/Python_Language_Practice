@@ -1,4 +1,4 @@
-Hello! Welcome to the world of Pythonh Programming. This is Vedant Pandya here. I am practicing and refreshing my Python knowledge and skills again from scratch but this time with documentation.
+Hello! Welcome to the world of Python Programming. This is Vedant Pandya here. I am practicing and refreshing my Python knowledge and skills again from scratch but this time with documentation.
 I am learning from the Online platform named Udacity which provides one of the best resources and one can feel like classroom teaching on the site. They provide the Video lectures, Text transcript, quiz module and many more to checkk your knowledge.
 Course Name: Introduction To Python Programming
 Link of the course: https://classroom.udacity.com/courses/ud1110-india

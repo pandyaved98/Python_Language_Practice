@@ -1,0 +1,14 @@
+Developer: "Guido Van Rossum"
+The python language is one of the most accessible programming languages available because it has simplified syntax and not complicated, which gives more emphasis on natural language. Due to its ease of learning and usage, python codes can be easily written and executed much faster than other programming languages.
+Why is Python is so popular? There are 10 main reasons for the same:
+1. Easy to Learn and Use
+2. Mature and Supportive Python Community (I'm also one of them :P)
+3. Support from Reknowned Corporate Sponsors (Google adopted Python in 2006)
+4. Hundreds of Python Libraries and Frameworks
+5. Versatility, Efficiency, Reliability, and Speed
+6. Big Data, Machine Learning and Cloud Computing
+7. First-Choice Language
+8. The Flexibility of Python Language
+9. Use of Python in Academics
+10. Automation
+"Python is growing at a supersonic speed."
